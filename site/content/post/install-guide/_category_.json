@@ -1,0 +1,8 @@
+{
+  "label": "インストールガイド",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "わんコメのインストールからコメント取得・表示まで"
+  }
+}
